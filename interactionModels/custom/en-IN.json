@@ -1,0 +1,95 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.NavigateHomeIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.FallbackIntent",
+          "samples": []
+        },
+        {
+          "slots": [],
+          "name": "LiveCommentary",
+          "samples": [
+            "live commentary",
+            "I would like to hear live commentary"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "CurrentMatch",
+          "samples": [
+            "Tell me about the ongoing cricket match."
+          ]
+        },
+        {
+          "slots": [],
+          "name": "BattingStyle",
+          "samples": [
+            "How is Virat Kohli playing Describe his batting style"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "BowlingStyle",
+          "samples": [
+            "What about the bowling side Tell me about the Australia bowlers."
+          ]
+        },
+        {
+          "slots": [],
+          "name": "KeyMoments",
+          "samples": [
+            "Are there any key moments in the match I want to feel the excitement"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "PlayerStatistics",
+          "samples": [
+            "Can you provide me with some statistics about the players"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "Predictions",
+          "samples": [
+            "I\u0027d like to know the match predictions. What are the chances of India winning"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "LiveCommentaryHindi",
+          "samples": [
+            "live commentary hindi",
+            "I would like to hear live commentary in hindi"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "MatchUpdates",
+          "samples": [
+            "Thanks Alexa Can you notify me about any important updates during the match"
+          ]
+        }
+      ],
+      "types": [],
+      "invocationName": "cricket sonic"
+    }
+  }
+}
